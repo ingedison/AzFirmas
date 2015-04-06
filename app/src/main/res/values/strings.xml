@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firmas AzSmart</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Borrar Firma</string>
+</resources>
